@@ -5,8 +5,7 @@
 ## Features
 
 - Navegar por paginas
-- Crear, leer, modificar y eliminar tareas
-- Listar todas las taras
+- puedes ver personas y sus correos
 
 ## Tech
 
